@@ -7,12 +7,19 @@ Furthermore, we assess the robustness of LLMs by augmenting the original problem
 ### cmath_dev
 Initial release of 600 examples from CMATH dataset, with 100 problems from each elementary school grade.  
 We will release the remaining portion of the dataset by the end of the year.
+#### Examples and Annotations
 ![Examples](assets/example1.png)
+
+#### Evaluation Results
 ![Model Performance](assets/plot1.png)
 
 ### distractor
 To assess the robustness of LLMs against "irrelevant" information, we manually created a small ``distractor dataset'' comprising 60 examples, 10 for each grade level. Each example consists of an original problem and five associated problems augmented with 1 ~ 5 piece(s) of irrelevant information which we refer to as distractor(s). 
+
+#### Examples
 ![Examples](assets/example2.png)
+
+#### Evaluation Results
 ![Model Performance](assets/plot2.png)
 
 ## Script

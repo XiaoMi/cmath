@@ -5,14 +5,18 @@
 ## 数据集
 ### cmath_dev
 我们分两批开源CMATH数据集中的样本。第一批开源600条样本，每个年级100条。首次开源的样本可以视为一个dev集。剩余的样本（可以视为test集）将在年底开源。
-![CMATH样本及标注](assets/example1.png "CMATH样本及标注")
-![模型表现对比](assets/plot1.png "模型表现对比")
+#### 样本示例
+![CMATH样本及标注](assets/example1.png)
+#### 模型表现对比
+![模型表现对比](assets/plot1.png)
 
 
 ### distractor
 为了评估大模型面对干扰信息的稳健性，我们创建了一个小型“干扰集”，包含60条样本。每条样本中包含1个原始问题，以及5个由我们手工添加干扰信息后的“增广问题”，共6个问题。
-![样本](assets/example2.png "样本示例")
-![模型表现对比](assets/plot2.png "模型表现对比")
+#### 样本示例
+![样本](assets/example2.png)
+#### 模型表现对比
+![模型表现对比](assets/plot2.png)
 
 
 ## 代码
