@@ -23,7 +23,6 @@
 我们提供了一个脚本`eval.py`用于对模型生成的回复进行自动化的评估。
 
 ## 开源协议
-Licensed under either of
 * MIT license
 * BSD license
 
