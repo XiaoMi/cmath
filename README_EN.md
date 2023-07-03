@@ -26,9 +26,7 @@ To assess the robustness of LLMs against "irrelevant" information, we manually c
 We provide a script `eval.py` that implements automated evaluation.
 
 ## License
-Licensed under either of
-* MIT license
-* BSD license
+MIT license
 
 ## Citation
 ```

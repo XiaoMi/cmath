@@ -24,7 +24,6 @@
 
 ## 开源协议
 * MIT license
-* BSD license
 
 ## 引用我们
 ```
